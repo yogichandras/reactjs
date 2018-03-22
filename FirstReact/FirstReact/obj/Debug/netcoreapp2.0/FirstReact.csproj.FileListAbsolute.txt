@@ -1,0 +1,11 @@
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\bin\Debug\netcoreapp2.0\FirstReact.deps.json
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\bin\Debug\netcoreapp2.0\FirstReact.runtimeconfig.json
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\bin\Debug\netcoreapp2.0\FirstReact.runtimeconfig.dev.json
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\bin\Debug\netcoreapp2.0\FirstReact.dll
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.csprojResolveAssemblyReference.cache
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.csproj.CoreCompileInputs.cache
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.AssemblyInfoInputs.cache
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.AssemblyInfo.cs
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\bin\Debug\netcoreapp2.0\FirstReact.pdb
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.dll
+C:\Users\yogichandras\source\repos\FirstReact\FirstReact\obj\Debug\netcoreapp2.0\FirstReact.pdb
